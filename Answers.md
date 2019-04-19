@@ -13,7 +13,7 @@
   
 1.  What is the difference between Application state and Component state? When would be a good time to use one over the other?
 
-  Application state can be accessed anywhere, where are Component state is usually only accessed in that particular component.
+  Application state can be accessed anywhere, whereas Component state is usually only accessed in that particular component.
   Creating a form would be a good use of component state, because the whole application doesn't need that information.
   
 1.  What is middleware?
