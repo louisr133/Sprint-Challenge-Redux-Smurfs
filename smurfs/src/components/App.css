@@ -26,3 +26,29 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.smurfBox {
+  width: 300px;
+  margin: 15px auto;
+  border: 1px solid black;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+
+}
+
+input {
+  padding: 10px;
+  text-align: center;
+  margin: 10px auto;
+  width: 300px;
+  /* background-color: grey; */
+}
+
+button {
+  margin: 0 auto;
+  width: 310px;
+  padding: 10px;
+}
