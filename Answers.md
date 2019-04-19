@@ -1,4 +1,5 @@
 1.  Name 3 JavaScript Array/Object Methods that do not produce side-effects? Which method do we use to create a new object while extending the properties of another object?
+
   .map()
   .filter()
   .reduce()
